@@ -1,2 +1,2 @@
 # hello-world
-#I'm hoping to gain as much knowledge as possible from this course, especially when it somes to understanding how front-end programming really works and having some hands-on practice on how to properly use it. I hope I can absorb most things this course has to offer and use it to progress further in my career. 
+#I'm hoping to gain as much knowledge as possible from this course, especially when it somes to understanding how front-end programming really works and having some hands-on practice on how to properly use it. I hope I can absorb most things this course has to offer and use it to progress further in my career.
